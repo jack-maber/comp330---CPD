@@ -14,8 +14,8 @@ This week's challenge was one that I didn't expect to happen, it stems from the 
 
 ## Week Five - Beginning 22nd October
 The challenge that presented itself to me this week was from the comp330 peer review session. Unlike many of the other peer reviews that I have taken part in throghout the course, this one took place 2 weeks prior to the hand in, rather than the usual 1 that I am used to. Due to this, my submission was of a lesser quality than I wanted, with only one of my Java applications being ready to show off, meaning the amount of feedback about my submission was greatly reduced. As result of this I'll have less guidance to follow to make sure that I fix all of the issues that are present in my work. To overcome this issue, I'll make sure to check when all of the peer review sessions for the study block are and then factor this in when I undertake working on my prjects, so that they are at a presentable level in time.  
-## Week Six
-
+## Week Six- Beginning 29th October
+As this week was studio practice, it was spent primarily working on the now decided team game idea. As me and Rich (The other BSc on the team) had been so busy with other assignemnts, we'd had fallen slightly behind on the development of the game, primarily the systems that were being implemeneted by the BA designers. And as the prototype had been created by only one of the BA's over the summer break, it was laready quite developed as it was, so I felt very overwhelmed by the sheer volume and complexity of the systems that had been developed, and due to the lack of comments I was unsure of what did what. So it took me a while to work on any of my own tasks as I didn't want to break the BA's workflow. However, after a while they came to my aid to discuss what I wanted clearing as they could see I was struggling. To overcome this issue in the future, I will ask for clarification on other team mates work so that I can get on with my own tasks, as otherwise I will fall behind on my contributions, which could affect the quality of the final product. 
 
 ## Week Seven
 
