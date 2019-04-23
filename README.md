@@ -36,3 +36,34 @@ Due to the fact that this week was the week after our biggest hand-ins, the majo
 ## Week Twelve - Beginning 10th December
 The final week of this study block was extremely quiet due to the fact that a large majority of the Games Academy had already started to leave to go home for Christmas. This raised an interesting issue that I have never encountered before, due to the fact that the scrum master had left early, and seemingly wasn't contactable, along with the lack of other members of our team leaving at the same time left me with a lack of direction of what issues to tackle, due to the fact that nearly all of the tasks on the board had been completed. This lead to me extremely unproductive during this time and mostly just working on my own personal projects, when in reality I should have been working on the game. In future, to prevent this issue from happening I'll make sure to ensure that their are tasks for any remaining team members when we are approaching the end of a study block, as this will prevent any members of the team remaining unproductive. 
 
+# comp340---CPD
+
+## Week One - Beginning 28th January
+As I have found over the past couple years that I have been at Falmouth, the week after returning from Christmas is always a difficult one where I struggle to get a drive back for the collaborative game project. This is mostly due to a combination of things, such as the couple weeks prior to us actually starting that we have to return back to Uni early for things such as Vivas leaves me feeling slightly lazy due to there being little to do, and the lack of other team members being present always makes it a bit of a struggle to get back to work quickly and effectively. Also, due the effectiveness of the BA programmers, I was left slightly under tasked while they were away so I was left with very little that I could do the fact that I couldn't interpret the systems that they had created, this was an issue I had last term however it doesn't seemed to have stopped happening. To counter this issue in future, before I leave for Christmas or any kind of long period of time, I will confirm with the other team members what tasks and jobs I can do when I return, eve if they aren't present. This will give more things I can do on the game, and thus more drive to get these jobs completed, which should be easily observable within any of future projects that I am a part of as I will feel much more driven when I return to work on a project. 
+
+## Week Two - Beginning 4th Febuary
+This week's issue arose from an issue that I thought I had cured, but it seems that I have slipped back into, after going over my code for both my COMP360 and the game project, I discovered that I have reverted back to my old ways of barely if ever commenting my code, which came back to bite me after I was asked by a team member to explain what a some of my blueprint functions did, to which I was unable to answer them until I had examined them for a while. This kind of issue could cause a lot of problems down the road, especially within a professional position so it's best that I sort it now. To do this, before submitting or committing any changes that I make to any of my projects, I will make sure to comment any code that I have added, this will make it much easier for both myself and colleagues to understand my work. This should be a relatively easy plan as there are very few steps to counter this issue, and thus should be easily obtainable in a short time frame. 
+
+## Week Three - Beginning 11th Febuary
+This week's issue stemmed from the research journal that is due at the end of this week, as with last study block, I am still struggling with my time management skills when it comes to written assignments, especially when it comes to the research journals that we have been tasked with writing over the last few years. I have found that this is mostly due to the fact that they were mostly due around the time of other, larger assignments and the fact they were always weighted quite low, however due to the fact that it's a group assignment and the entire cohort is marked on the overall contribution, it is important that I do my part so that the rest of the group's marked isn't brought down. My plan to fix this issue in the future is to start anything research related a lot earlier by getting the bulk of the research written up in a single session, and then I can go back to it nearer the deadline so I can discuss my findings with my peers more effectively. This plan will be easy enough to see if it was effective in the future as I will find that the quality of my research projects and the discussions I have with my peers will be of a much higher quality. 
+
+## Week Four - Beginning 18th Febuary
+This week's problem stemmed from the comp360 artefact, due to the fact that I haven't used c++ for a large project in a long time and my data collection where I need to use my artefact is rapidly approaching I have discovered that not keeping my individual language skills up to scratch has seriously affected my ability to create well constructed programs quickly 
+## Week Five - Beginning  25th Febuary
+
+## Week Six - Beginning 4th March
+
+## Week Seven - Beginning 11th March
+Show and tell day
+
+## Week Eight - Beginning 18th March
+
+## Week Nine - Beginning 25th March
+directinput stripped out of sf5
+## Week Ten - Beginning 1 April
+data collection
+## Week Eleven - Beginning 8th April
+Final Presentation Practice
+
+
+
