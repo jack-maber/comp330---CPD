@@ -71,5 +71,10 @@ This weeks issue came up during my data collection for my dissertation, due to t
 ## Week Eleven - Beginning 8th April
 The issue from last week of the study block was sprung up from the optimisation task that was due at the end of the week, and although I had started nice and early on this task when I came back, I had mostly forgotten about the task by the time that I was reminded that they hand-in was rapidly approaching, and thus the work that I handed in was definitely not up to the standard that I wanted. I have had this issue in the past but I still have't seemed to have fixed it and the plans that I have created haven't seemed to have worked. To counter this issue in the future, I will make sure to plan out my hand-ins much better by writing them out on a calendar, and then planning out my weeks by dividing them up task by task, which will allow me to work on all of my assignments equally and not fall behind on any of them. This plan will defientely help me in a professional context as it will allow me to keep a better eye on all of the tasks and projects that I'm working on. 
 
+## Week Twelve - Beginning 29th April
+This week was purely spent writing up the dissertation, which although went smoothly, I can appreciate that I should have started this process much earlier than this as I feel that I will have to work right up to the deadline to be able to get to the level of work that I want from this project, along with the amount of quality I want. This issue was due mostly to my poor time management skills, as well my overconfidence in my ability to be able to get a project written up quickly, without distraction. To address this issue in the future, I will make sure to start any large written project much earlier than I feel I need to, as this way it will ensure that I can get a decent amount of work done far in advance of the deadline, meaning that towards the end of the time available, I will have less work to do, and thus I'll be able to create a more quality project. 
+
+
+
 
 
